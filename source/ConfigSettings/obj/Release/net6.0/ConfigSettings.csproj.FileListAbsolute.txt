@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\bin\Release\net6.0\ConfigSettings.deps.json
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\bin\Release\net6.0\ConfigSettings.dll
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\bin\Release\net6.0\ConfigSettings.pdb
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\bin\Release\net6.0\Interfaces.dll
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\bin\Release\net6.0\Interfaces.pdb
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.AssemblyInfo.cs
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.csproj.CopyComplete
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.dll
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\refint\ConfigSettings.dll
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ConfigSettings.pdb
+C:\Users\User\source\repos\PriceUpdate_Kotov\source\ConfigSettings\obj\Release\net6.0\ref\ConfigSettings.dll
